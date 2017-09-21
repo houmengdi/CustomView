@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:paddingTop="@dimen/y15"
+    android:layout_height="wrap_content"
+    android:textColor="@color/color_3"
+    android:textSize="@dimen/x24"
+    tools:text="小米"/>
